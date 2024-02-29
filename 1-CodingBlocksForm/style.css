@@ -1,0 +1,294 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .header-section{
+    border: 1px solid black;
+} */
+
+.header-section{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.header-section-table{
+    /* border: 2px solid red; */
+    width: 100%;
+}
+
+.cb-logo,
+.header-section-heading,
+.enquiry-info{
+    width: 30%;
+    /* border: 1px solid rebeccapurple; */
+}
+
+.cb-logo-img{
+    width: 50%;
+    background-image:  url('https://images.collegedunia.com/public/image/institute/cover_1622555357cb1.png?h=160&w=375&mode=stretch');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: auto;
+    height: 100px;
+}
+
+.header-section-heading,
+.enquiry-info{
+    font-size: 30px;
+}
+
+.header-section-heading{
+    text-decoration: underline;
+}
+
+.enquiry-checkbox input,
+.enquiry-enrolled input{
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+ .user-details{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+} 
+
+.user-details-table{
+    width: 100%;
+    /* border: 1px solid red; */
+    height: 200px;
+}
+
+.user-details-info{
+    width: 45%;
+    height: 200px;
+    /* border: 1px solid black; */
+}
+
+.user-details-field{
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.user-details-input{
+    font-size: 20px;
+    width: 70%;
+    margin: 3px 0;
+
+}
+
+.user-fields-text{
+    float: left;
+    width: 20%;
+}
+
+.user-fields-input{
+    float: right;
+    width: 79%;
+}
+
+
+
+
+
+
+
+.course-choose-section{
+    width: 80%;
+    margin: 20px auto;
+    /* border: 1px solid black; */
+}
+
+.course-choose-heading{
+    font-size: 22px;
+}
+
+.choose-course-item-1,
+.choose-course-item-2{
+    width: 50%;
+    height: 200px;
+}
+
+/* .course-selection{
+    border: 1px solid black;
+} */
+
+.choose-course-item-1{
+    /* background-color: orange; */
+    float: left;
+}
+
+.choose-course-item-2{
+    /* background-color: blue; */
+    float: right;
+}
+
+.courses-checkbox{
+    height: 20px;
+    width: 20px;
+}
+
+.courses-name{
+    font-size: 22px;
+}
+
+.courses-name-container{
+    margin: 10px;
+}
+
+
+
+.centre-name{
+    margin-top: 20px;
+    margin-left: 150px;
+    font-size: 22px;
+}
+
+.centres-1{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 25px;
+    float: left;
+}
+
+.centres-2{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 22px;
+    float: left;
+}
+
+.centre-checkbox{
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+
+
+
+.know-about{
+    margin-top: 70px;
+    margin-left: 150px;
+    font-size: 22px;
+}
+
+.know-about-1{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 22px;
+    float: left;
+}
+
+.know-about-2{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 22px;
+    float: left;
+}
+
+.know-about-3{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 22px;
+    float: left;
+}
+
+.know-about-4{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 22px;
+    float: left;
+}
+
+.know-checkbox{
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+
+.VMC{
+    margin-top: 60px;
+    margin-left: 150px;
+    font-size: 22px;
+}
+
+.VMC-1{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 22px;
+    float: left;
+}
+
+.VMC-2{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 22px;
+    float: left;
+}
+
+.VMC-checkbox{
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+.VMC-Roll-No{
+    margin-top: 60px;
+    margin-left: 150px;
+    font-size: 22px;
+}
+
+
+
+
+.who-referred{
+    margin-top: 20px;
+    margin-left: 150px;
+    font-size: 22px;
+}
+
+
+
+
+.Handle{
+    margin-top: 25px;
+    margin-left: 150px;
+    font-size: 22px;
+    float: left;
+}
+
+
+.date{
+    margin-top: 25px;
+    margin-left: 350px;
+    font-size: 22px;
+    float: left;
+}
+
+
+.place{
+    margin-top: 25px;
+    margin-left: 450px;
+    font-size: 22px;
+    float: left;
+}
+
+
